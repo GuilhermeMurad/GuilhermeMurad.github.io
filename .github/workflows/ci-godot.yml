@@ -1,4 +1,4 @@
-name: "Publishing to GitHub Pages"
+name: "Publish to GitHub Pages"
 
 env:
   GODOT_VERSION: 4.1.2
